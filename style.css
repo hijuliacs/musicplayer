@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: #0F0D13;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 150px;
+}
+
+.player {
+    margin: auto;
+    background-color: #2A2141;
+    width: 357.71px;
+    height: 266.68px;
+    border-radius: 9.60297px;
+}
+
+.informacoes {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    gap: 25px;
+}
+
+.informacoes > img {
+    width: 84.03px;
+    height: 84.03px;
+}
+
+.textos {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.textos > h3 {
+    font-weight: 700;
+    font-size: 22px;
+    color: #E1E1E6;
+}
+
+.textos > p {
+    font-weight: 400;
+    font-size: 17px;
+    color: #8a8a8b;
+}
+
+.comandos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    padding: 15px;
+}
+
+.andamento > img {
+    padding: 10px;
+    margin-left: 15px;
+}
+
+.tempo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+.tempo > p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 10px;
+    color: #C4C4CC;
+}
