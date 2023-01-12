@@ -5,7 +5,7 @@
 <br>
 
 <h2 align="center">Informações</h2>
-<p align="center">Este projeto foi um desafio proposto pela Rocketseat no programa #BoraCodar. Utilizei somente HTML e CSS e terminei tudo em, mais ou menos, 1 hora e meia.</p>
+<p align="center">Este projeto foi um desafio proposto pela Rocketseat no programa #boraCodar. Utilizei somente HTML e CSS e terminei tudo em, mais ou menos, 1 hora e meia.</p>
 <br>
 
 <div align="center">
