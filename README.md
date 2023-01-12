@@ -1,6 +1,6 @@
 <h1 align="center">Player de Música</h1>
 <div align="center">
-<img height="400cm" src="https://user-images.githubusercontent.com/119365652/211124404-80820f03-97ef-432e-a469-c82fd31bf66a.png"/>
+<img height="400cm" src="https://user-images.githubusercontent.com/119365652/211124404-80820f03-97ef-432e-a469-c82fd31bf66a.png">
 </div>
 <br>
 
